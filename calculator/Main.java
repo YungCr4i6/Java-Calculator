@@ -1,4 +1,4 @@
-st//basic czech calculator in java (my first and maybe last java "project")
+st//basic czech calculator in java (my first and probably last java "project")
 
 package sample;
 
