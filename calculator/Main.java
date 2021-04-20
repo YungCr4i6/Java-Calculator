@@ -1,4 +1,4 @@
-//basic czech calculator in java (my first and maybe last java "project")
+st//basic czech calculator in java (my first and maybe last java "project")
 
 package sample;
 
@@ -49,7 +49,7 @@ class Main {
                 break;
 
             default:
-                System.out.println("Invalid operator!");
+                System.out.println("Neexistujici operator!");
                 break;
         }
 
